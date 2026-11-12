@@ -1,0 +1,2601 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "": {},
+    "%@\n%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@\n%2$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@\n%@"
+          }
+        }
+      }
+    },
+    "%@ (%lld)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ (%2$lld)"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ (%lld)"
+          }
+        }
+      }
+    },
+    "%@ each": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "her biri %@"
+          }
+        }
+      }
+    },
+    "%@ found.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ bulundu."
+          }
+        }
+      }
+    },
+    "%@ free": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ boş"
+          }
+        }
+      }
+    },
+    "%@ in %lld locations": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ in %2$lld locations"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%2$lld konumda %1$@"
+          }
+        }
+      }
+    },
+    "%@ in 1 location": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 konumda %@"
+          }
+        }
+      }
+    },
+    "%@ is a system item and cannot be removed": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ bir sistem öğesidir ve kaldırılamaz"
+          }
+        }
+      }
+    },
+    "%@ of %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ of %2$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "%@ selected": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ seçildi"
+          }
+        }
+      }
+    },
+    "%@ used": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kullanılıyor"
+          }
+        }
+      }
+    },
+    "%@ wasted": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ boşa harcanıyor"
+          }
+        }
+      }
+    },
+    "%@ · %lld items, %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ · %2$lld items, %3$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$lld öğe, %3$@"
+          }
+        }
+      }
+    },
+    "%@ · looking for leftovers…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · kalıntılar aranıyor…"
+          }
+        }
+      }
+    },
+    "%@, %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@, %2$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@, %@"
+          }
+        }
+      }
+    },
+    "%@, %@, %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@, %2$@, %3$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@, %@, %@"
+          }
+        }
+      }
+    },
+    "%@, %lld percent, %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@, %2$lld percent, %3$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@, yüzde %2$lld, %3$@"
+          }
+        }
+      }
+    },
+    "%@: %@. %@. %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@: %2$@. %3$@. %4$@."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: %@. %@. %@."
+          }
+        }
+      }
+    },
+    "%lld COPIES": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld KOPYA"
+          }
+        }
+      }
+    },
+    "%lld apps, %@. Apple apps are never listed.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld apps, %2$@. Apple apps are never listed."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld uygulama, %2$@. Apple uygulamaları hiçbir zaman listelenmez."
+          }
+        }
+      }
+    },
+    "%lld copies. At least one copy of every file is always kept.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld kopya. Her dosyanın en az bir kopyası her zaman saklanır."
+          }
+        }
+      }
+    },
+    "%lld cores": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld çekirdek"
+          }
+        }
+      }
+    },
+    "%lld files over %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld files over %2$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%2$@ üzerinde %1$lld dosya"
+          }
+        }
+      }
+    },
+    "%lld groups of identical files": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld özdeş dosya grubu"
+          }
+        }
+      }
+    },
+    "%lld groups, %@ wasted. The oldest copy in each group is kept.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld groups, %2$@ wasted. The oldest copy in each group is kept."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld grup, %2$@ boşa harcanıyor. Her gruptaki en eski kopya saklanır."
+          }
+        }
+      }
+    },
+    "%lld items": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld öğe"
+          }
+        }
+      }
+    },
+    "%lld items from %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld items from %2$@."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%2$@ bölümünden %1$lld öğe."
+          }
+        }
+      }
+    },
+    "%lld of %lld items": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld of %2$lld items"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%2$lld öğeden %1$lld tanesi"
+          }
+        }
+      }
+    },
+    "%lld of %lld items.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld of %2$lld items."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%2$lld öğeden %1$lld tanesi."
+          }
+        }
+      }
+    },
+    "%lld of %lld steps done": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld of %2$lld steps done"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%2$lld adımdan %1$lld tanesi tamamlandı"
+          }
+        }
+      }
+    },
+    "%lld picked": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld seçildi"
+          }
+        }
+      }
+    },
+    "%lld%%": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%%%lld"
+          }
+        }
+      }
+    },
+    "1 copy. At least one copy of every file is always kept.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 kopya. Her dosyanın en az bir kopyası her zaman saklanır."
+          }
+        }
+      }
+    },
+    "1 file over %@": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ üzerinde 1 dosya"
+          }
+        }
+      }
+    },
+    "1 group of identical files": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 özdeş dosya grubu"
+          }
+        }
+      }
+    },
+    "1 item": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 öğe"
+          }
+        }
+      }
+    },
+    "1 item from %@.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ bölümünden 1 öğe."
+          }
+        }
+      }
+    },
+    "A real removal also stops the agent if it is running.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerçek kaldırma, çalışıyorsa aracıyı da durdurur."
+          }
+        }
+      }
+    },
+    "Activity log": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etkinlik günlüğü"
+          }
+        }
+      }
+    },
+    "Almost done.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neredeyse bitti."
+          }
+        }
+      }
+    },
+    "Always on when TidyMac opens": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TidyMac açıldığında her zaman açık"
+          }
+        }
+      }
+    },
+    "Analyze": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Analiz"
+          }
+        }
+      }
+    },
+    "Another %@ needs your review first.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ daha önce incelemenizi bekliyor."
+          }
+        }
+      }
+    },
+    "App": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulama"
+          }
+        }
+      }
+    },
+    "App Caches": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulama Önbellekleri"
+          }
+        }
+      }
+    },
+    "Appearance": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Görünüm"
+          }
+        }
+      }
+    },
+    "Application": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulama"
+          }
+        }
+      }
+    },
+    "Back": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geri"
+          }
+        }
+      }
+    },
+    "Background items that start automatically. Removing a user item moves it to the Trash and stops it. System items are read-only.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otomatik olarak başlayan arka plan öğeleri. Bir kullanıcı öğesini kaldırmak onu Çöp Sepeti'ne taşır ve durdurur. Sistem öğeleri salt okunurdur."
+          }
+        }
+      }
+    },
+    "Battery": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pil"
+          }
+        }
+      }
+    },
+    "Battery %lld percent": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pil yüzde %lld"
+          }
+        }
+      }
+    },
+    "Battery %lld percent, charging": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pil yüzde %lld, şarj oluyor"
+          }
+        }
+      }
+    },
+    "Battery, charging": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pil, şarj oluyor"
+          }
+        }
+      }
+    },
+    "Browser caches, history and cookies": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarayıcı önbellekleri, geçmişi ve çerezleri"
+          }
+        }
+      }
+    },
+    "Browser data": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarayıcı verileri"
+          }
+        }
+      }
+    },
+    "CPU": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İşlemci"
+          }
+        }
+      }
+    },
+    "Cache": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Önbellek"
+          }
+        }
+      }
+    },
+    "Cached and other": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Önbelleğe alınan ve diğer"
+          }
+        }
+      }
+    },
+    "Caches and logs": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Önbellekler ve günlükler"
+          }
+        }
+      }
+    },
+    "Caches are ticked. History and cookies need your say-so.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Önbellekler işaretli. Geçmiş ve çerezler için sizin onayınız gerekir."
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vazgeç"
+          }
+        }
+      }
+    },
+    "Changes apply to the next scan.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Değişiklikler bir sonraki taramada geçerli olur."
+          }
+        }
+      }
+    },
+    "Checking %@. This only reads, nothing is changed.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denetleniyor: %@. Yalnızca okunur, hiçbir şey değiştirilmez."
+          }
+        }
+      }
+    },
+    "Checking what would be removed…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nelerin kaldırılacağı denetleniyor…"
+          }
+        }
+      }
+    },
+    "Clean": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temizle"
+          }
+        }
+      }
+    },
+    "Clean Selected Items…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seçili Öğeleri Temizle…"
+          }
+        }
+      }
+    },
+    "Cleaning…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temizleniyor…"
+          }
+        }
+      }
+    },
+    "Cleans will then move items to the Trash. You still confirm each clean before anything is removed, and dry run comes back on the next time TidyMac opens.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bundan sonra temizlikler öğeleri Çöp Sepeti'ne taşır. Bir şey kaldırılmadan önce her temizliği yine siz onaylarsınız ve TidyMac bir sonraki açılışında deneme modu yeniden açılır."
+          }
+        }
+      }
+    },
+    "Cleanup": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temizlik"
+          }
+        }
+      }
+    },
+    "Click a folder to drill in. Right-click a block to reveal it in Finder. Disk Map is read-only.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İçine girmek için bir klasöre tıklayın. Finder'da göstermek için bir bloğa sağ tıklayın. Disk Haritası salt okunurdur."
+          }
+        }
+      }
+    },
+    "Comparing files takes a few minutes": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dosyaları karşılaştırmak birkaç dakika sürer"
+          }
+        }
+      }
+    },
+    "Comparing files…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dosyalar karşılaştırılıyor…"
+          }
+        }
+      }
+    },
+    "Compressed": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sıkıştırılmış"
+          }
+        }
+      }
+    },
+    "Cookies": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çerezler"
+          }
+        }
+      }
+    },
+    "Dark": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koyu"
+          }
+        }
+      }
+    },
+    "Delete %@ permanently?": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kalıcı olarak silinsin mi?"
+          }
+        }
+      }
+    },
+    "Delete Permanently": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kalıcı Olarak Sil"
+          }
+        }
+      }
+    },
+    "Delete permanently instead. Skips the Trash and cannot be undone.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bunun yerine kalıcı olarak sil. Çöp Sepeti atlanır ve geri alınamaz."
+          }
+        }
+      }
+    },
+    "Deleted %@, %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Deleted %1$@, %2$@."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ silindi, %2$@."
+          }
+        }
+      }
+    },
+    "Deselect All": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tüm Seçimi Kaldır"
+          }
+        }
+      }
+    },
+    "Disk": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disk"
+          }
+        }
+      }
+    },
+    "Dry Run": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme Modu"
+          }
+        }
+      }
+    },
+    "Dry run": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu"
+          }
+        }
+      }
+    },
+    "Dry run is off. Cleans move items to the Trash.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu kapalı. Temizlikler öğeleri Çöp Sepeti'ne taşır."
+          }
+        }
+      }
+    },
+    "Dry run is off. Items move to the Trash after you confirm.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu kapalı. Öğeler siz onayladıktan sonra Çöp Sepeti'ne taşınır."
+          }
+        }
+      }
+    },
+    "Dry run is on, so this only previews.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu açık, bu yüzden yalnızca önizleme yapılır."
+          }
+        }
+      }
+    },
+    "Dry run is on. Cleans only preview.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu açık. Temizlikler yalnızca önizlenir."
+          }
+        }
+      }
+    },
+    "Dry run is on. Scans and cleans only preview, nothing is deleted.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu açık. Taramalar ve temizlikler yalnızca önizlenir, hiçbir şey silinmez."
+          }
+        }
+      }
+    },
+    "Dry run on": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu açık"
+          }
+        }
+      }
+    },
+    "Dry run: would remove %@, %@. Nothing was changed.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Dry run: would remove %1$@, %2$@. Nothing was changed."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu: %1$@ kaldırılacaktı, %2$@. Hiçbir şey değiştirilmedi."
+          }
+        }
+      }
+    },
+    "Duplicate": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yinelenen"
+          }
+        }
+      }
+    },
+    "Duplicates": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yinelenenler"
+          }
+        }
+      }
+    },
+    "Duplicates compares files of at least": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yinelenenler en az şu boyuttaki dosyaları karşılaştırır"
+          }
+        }
+      }
+    },
+    "Every action is logged to log.jsonl": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Her işlem log.jsonl dosyasına kaydedilir"
+          }
+        }
+      }
+    },
+    "Every preview and every clean is written to the activity log. Dry run cannot be turned off here; switch it in the sidebar when you want a real clean.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Her önizleme ve her temizlik etkinlik günlüğüne yazılır. Deneme modu buradan kapatılamaz; gerçek bir temizlik istediğinizde kenar çubuğundan değiştirin."
+          }
+        }
+      }
+    },
+    "Files of %@ or more with identical content (SHA-256). The oldest copy is kept.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İçeriği özdeş olan (SHA-256), %@ ve üzeri dosyalar. En eski kopya saklanır."
+          }
+        }
+      }
+    },
+    "Free": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boş"
+          }
+        }
+      }
+    },
+    "Hide Sidebar": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kenar Çubuğunu Gizle"
+          }
+        }
+      }
+    },
+    "History": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geçmiş"
+          }
+        }
+      }
+    },
+    "Home": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ana Klasör"
+          }
+        }
+      }
+    },
+    "It was not running.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çalışmıyordu."
+          }
+        }
+      }
+    },
+    "Items go to the Trash after you confirm.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öğeler siz onayladıktan sonra Çöp Sepeti'ne gider."
+          }
+        }
+      }
+    },
+    "Keep Dry Run On": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme Modu Açık Kalsın"
+          }
+        }
+      }
+    },
+    "Keeper": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saklanan"
+          }
+        }
+      }
+    },
+    "LARGEST ITEMS": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EN BÜYÜK ÖĞELER"
+          }
+        }
+      }
+    },
+    "Large File": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Büyük Dosya"
+          }
+        }
+      }
+    },
+    "Large Files": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Büyük Dosyalar"
+          }
+        }
+      }
+    },
+    "Large Files lists files of at least": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Büyük Dosyalar en az şu boyuttaki dosyaları listeler"
+          }
+        }
+      }
+    },
+    "Large files": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Büyük dosyalar"
+          }
+        }
+      }
+    },
+    "Last session": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Son oturum"
+          }
+        }
+      }
+    },
+    "Left out %lld browser data items because the browser is running. Quit it first.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarayıcı çalıştığı için %lld tarayıcı verisi öğesi dışarıda bırakıldı. Önce tarayıcıdan çıkın."
+          }
+        }
+      }
+    },
+    "Left out 1 browser data item because the browser is running. Quit it first.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarayıcı çalıştığı için 1 tarayıcı verisi öğesi dışarıda bırakıldı. Önce tarayıcıdan çıkın."
+          }
+        }
+      }
+    },
+    "Leftover · %@": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kalıntı · %@"
+          }
+        }
+      }
+    },
+    "Let's make some room": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Biraz yer açalım"
+          }
+        }
+      }
+    },
+    "Light": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Açık"
+          }
+        }
+      }
+    },
+    "Live": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Canlı"
+          }
+        }
+      }
+    },
+    "Live numbers, refreshed every 2 seconds.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Canlı değerler, 2 saniyede bir yenilenir."
+          }
+        }
+      }
+    },
+    "Login Item": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giriş Öğesi"
+          }
+        }
+      }
+    },
+    "Login Items": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giriş Öğeleri"
+          }
+        }
+      }
+    },
+    "Login Items & Launch Agents": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giriş Öğeleri ve Başlatma Aracıları"
+          }
+        }
+      }
+    },
+    "Logs": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Günlükler"
+          }
+        }
+      }
+    },
+    "Looking for apps…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulamalar aranıyor…"
+          }
+        }
+      }
+    },
+    "Looking for login items…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giriş öğeleri aranıyor…"
+          }
+        }
+      }
+    },
+    "MEMORY": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BELLEK"
+          }
+        }
+      }
+    },
+    "Match System": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sistemle Eşleştir"
+          }
+        }
+      }
+    },
+    "Measuring…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ölçülüyor…"
+          }
+        }
+      }
+    },
+    "Memory": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bellek"
+          }
+        }
+      }
+    },
+    "Move %@ to Trash": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ öğesini Çöp Sepeti'ne Taşı"
+          }
+        }
+      }
+    },
+    "Move %@ to the Trash?": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ Çöp Sepeti'ne taşınsın mı?"
+          }
+        }
+      }
+    },
+    "Move to Trash": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çöp Sepeti'ne Taşı"
+          }
+        }
+      }
+    },
+    "Move to Trash (asks first)": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çöp Sepeti'ne Taşı (önce sorar)"
+          }
+        }
+      }
+    },
+    "Moved %@ to the Trash, %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Moved %1$@ to the Trash, %2$@."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ Çöp Sepeti'ne taşındı, %2$@."
+          }
+        }
+      }
+    },
+    "No apps match.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eşleşen uygulama yok."
+          }
+        }
+      }
+    },
+    "No duplicates found": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yinelenen dosya bulunamadı"
+          }
+        }
+      }
+    },
+    "No junk, large files or browser leftovers were found.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çöp, büyük dosya veya tarayıcı kalıntısı bulunamadı."
+          }
+        }
+      }
+    },
+    "No login items or launch agents found.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giriş öğesi veya başlatma aracısı bulunamadı."
+          }
+        }
+      }
+    },
+    "No third-party apps found.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Üçüncü taraf uygulama bulunamadı."
+          }
+        }
+      }
+    },
+    "None": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yok"
+          }
+        }
+      }
+    },
+    "Not scanned": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taranmadı"
+          }
+        }
+      }
+    },
+    "Not scanned yet": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Henüz taranmadı"
+          }
+        }
+      }
+    },
+    "Not scanned yet.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Henüz taranmadı."
+          }
+        }
+      }
+    },
+    "Not selected": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seçili değil"
+          }
+        }
+      }
+    },
+    "Not yet": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Henüz değil"
+          }
+        }
+      }
+    },
+    "Nothing found": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir şey bulunamadı"
+          }
+        }
+      }
+    },
+    "Nothing found in the last scan.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Son taramada bir şey bulunamadı."
+          }
+        }
+      }
+    },
+    "Nothing here": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Burada bir şey yok"
+          }
+        }
+      }
+    },
+    "Nothing is ticked: pick what you no longer need.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hiçbir şey işaretli değil: artık gerek duymadıklarınızı seçin."
+          }
+        }
+      }
+    },
+    "Nothing selected.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hiçbir şey seçilmedi."
+          }
+        }
+      }
+    },
+    "Nothing to clean": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temizlenecek bir şey yok"
+          }
+        }
+      }
+    },
+    "Nothing to clean here": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Burada temizlenecek bir şey yok"
+          }
+        }
+      }
+    },
+    "Only items marked Safe are ticked for you.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yalnızca Güvenli olarak işaretlenen öğeler sizin için işaretlendi."
+          }
+        }
+      }
+    },
+    "Open Settings": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayarları Aç"
+          }
+        }
+      }
+    },
+    "Open TidyMac": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TidyMac'i Aç"
+          }
+        }
+      }
+    },
+    "Opens %@": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ bölümünü açar"
+          }
+        }
+      }
+    },
+    "Opens this folder": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu klasörü açar"
+          }
+        }
+      }
+    },
+    "Performance": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Performans"
+          }
+        }
+      }
+    },
+    "Preview Clean of Selected Items": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seçili Öğelerin Temizliğini Önizle"
+          }
+        }
+      }
+    },
+    "Preview clean": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temizliği önizle"
+          }
+        }
+      }
+    },
+    "Preview moving this item to the Trash": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu öğenin Çöp Sepeti'ne taşınmasını önizle"
+          }
+        }
+      }
+    },
+    "Preview only": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yalnızca önizleme"
+          }
+        }
+      }
+    },
+    "Preview uninstall": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaldırmayı önizle"
+          }
+        }
+      }
+    },
+    "Privacy": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gizlilik"
+          }
+        }
+      }
+    },
+    "Protect": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koruma"
+          }
+        }
+      }
+    },
+    "Quit": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çık"
+          }
+        }
+      }
+    },
+    "Real cleaning is on. Items go to the Trash after you confirm. Click to go back to dry run.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerçek temizlik açık. Öğeler siz onayladıktan sonra Çöp Sepeti'ne gider. Deneme moduna dönmek için tıklayın."
+          }
+        }
+      }
+    },
+    "Refresh": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yenile"
+          }
+        }
+      }
+    },
+    "Remove %@": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ uygulamasını kaldır"
+          }
+        }
+      }
+    },
+    "Rescan": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeniden Tara"
+          }
+        }
+      }
+    },
+    "Reveal %@ in Finder": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ öğesini Finder'da göster"
+          }
+        }
+      }
+    },
+    "Reveal in Finder": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder'da Göster"
+          }
+        }
+      }
+    },
+    "Review": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İncele"
+          }
+        }
+      }
+    },
+    "Review and Clean": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İncele ve Temizle"
+          }
+        }
+      }
+    },
+    "Review first": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Önce inceleyin"
+          }
+        }
+      }
+    },
+    "Run Quick Scan": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Tarama'yı çalıştırın"
+          }
+        }
+      }
+    },
+    "Safe": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Güvenli"
+          }
+        }
+      }
+    },
+    "Safety": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Güvenlik"
+          }
+        }
+      }
+    },
+    "Scan": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tara"
+          }
+        }
+      }
+    },
+    "Scan %@": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tara: %@"
+          }
+        }
+      }
+    },
+    "Scan Again": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeniden Tara"
+          }
+        }
+      }
+    },
+    "Scan Home Folder": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ana Klasörü Tara"
+          }
+        }
+      }
+    },
+    "Scan complete": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarama tamamlandı"
+          }
+        }
+      }
+    },
+    "Scan progress": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarama ilerlemesi"
+          }
+        }
+      }
+    },
+    "Scanning": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taranıyor"
+          }
+        }
+      }
+    },
+    "Scanning your Mac": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac'iniz taranıyor"
+          }
+        }
+      }
+    },
+    "Scanning…": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taranıyor…"
+          }
+        }
+      }
+    },
+    "Scans and cleans only preview. Click to allow real cleaning (Trash).": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taramalar ve temizlikler yalnızca önizlenir. Gerçek temizliğe (Çöp Sepeti) izin vermek için tıklayın."
+          }
+        }
+      }
+    },
+    "Scans only read your files. Nothing is changed until you confirm a clean.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taramalar dosyalarınızı yalnızca okur. Siz bir temizliği onaylayana kadar hiçbir şey değiştirilmez."
+          }
+        }
+      }
+    },
+    "Search apps": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulama ara"
+          }
+        }
+      }
+    },
+    "See everything an app leaves behind before you remove it.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir uygulamayı kaldırmadan önce geride bıraktığı her şeyi görün."
+          }
+        }
+      }
+    },
+    "Select All Safe Items": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tüm Güvenli Öğeleri Seç"
+          }
+        }
+      }
+    },
+    "Select all Safe": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tüm Güvenlileri seç"
+          }
+        }
+      }
+    },
+    "Select an app": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir uygulama seçin"
+          }
+        }
+      }
+    },
+    "Select none": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seçimi kaldır"
+          }
+        }
+      }
+    },
+    "Selected": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seçili"
+          }
+        }
+      }
+    },
+    "Show Sidebar": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kenar Çubuğunu Göster"
+          }
+        }
+      }
+    },
+    "Show TidyMac in the menu bar": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TidyMac'i menü çubuğunda göster"
+          }
+        }
+      }
+    },
+    "Show in Finder": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder'da Göster"
+          }
+        }
+      }
+    },
+    "Simulator Caches": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Simülatör Önbellekleri"
+          }
+        }
+      }
+    },
+    "Skipped %@.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atlanan: %@."
+          }
+        }
+      }
+    },
+    "Quick Scan": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Tarama"
+          }
+        }
+      }
+    },
+    "Quick Scan checks caches, logs, big files and browser leftovers. Nothing is removed until you review it.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Tarama önbellekleri, günlükleri, büyük dosyaları ve tarayıcı kalıntılarını denetler. Siz incelemeden hiçbir şey kaldırılmaz."
+          }
+        }
+      }
+    },
+    "Some folders could not be read, so these results are incomplete.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bazı klasörler okunamadı, bu yüzden sonuçlar eksik."
+          }
+        }
+      }
+    },
+    "Some to review": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bazıları incelenmeli"
+          }
+        }
+      }
+    },
+    "Disk Map": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disk Haritası"
+          }
+        }
+      }
+    },
+    "Start Quick Scan": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Tarama'yı Başlat"
+          }
+        }
+      }
+    },
+    "Stop Scan": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taramayı Durdur"
+          }
+        }
+      }
+    },
+    "System": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sistem"
+          }
+        }
+      }
+    },
+    "System Junk": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sistem Çöpleri"
+          }
+        }
+      }
+    },
+    "System items are read-only": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sistem öğeleri salt okunurdur"
+          }
+        }
+      }
+    },
+    "TOP MEMORY": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EN ÇOK BELLEK"
+          }
+        }
+      }
+    },
+    "TOP PROCESSES BY MEMORY": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BELLEĞE GÖRE İLK İŞLEMLER"
+          }
+        }
+      }
+    },
+    "The agent could not be stopped, so it keeps running until you log out.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aracı durdurulamadı, bu yüzden oturumu kapatana kadar çalışmaya devam eder."
+          }
+        }
+      }
+    },
+    "The app and the files it left behind. The app's own documents and loose matches are marked Review and start unticked. Quit the app before removing it.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulama ve geride bıraktığı dosyalar. Uygulamanın kendi belgeleri ve kesin olmayan eşleşmeler İncele olarak işaretlenir ve işaretsiz başlar. Kaldırmadan önce uygulamadan çıkın."
+          }
+        }
+      }
+    },
+    "The log file could not be written.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Günlük dosyası yazılamadı."
+          }
+        }
+      }
+    },
+    "The running agent was stopped.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çalışan aracı durduruldu."
+          }
+        }
+      }
+    },
+    "Theme": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tema"
+          }
+        }
+      }
+    },
+    "This cannot be undone.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu işlem geri alınamaz."
+          }
+        }
+      }
+    },
+    "This reads every large file in your home folder, so it can take a few minutes. You can cancel at any time.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu işlem ana klasörünüzdeki her büyük dosyayı okur, bu yüzden birkaç dakika sürebilir. İstediğiniz zaman vazgeçebilirsiniz."
+          }
+        }
+      }
+    },
+    "TidyMac": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TidyMac"
+          }
+        }
+      }
+    },
+    "Trash mode": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çöp Sepeti modu"
+          }
+        }
+      }
+    },
+    "Turn Off Dry Run": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme Modunu Kapat"
+          }
+        }
+      }
+    },
+    "Turn off dry run?": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modu kapatılsın mı?"
+          }
+        }
+      }
+    },
+    "Turns dry run back on": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deneme modunu yeniden açar"
+          }
+        }
+      }
+    },
+    "Turns dry run off after a confirmation": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onaydan sonra deneme modunu kapatır"
+          }
+        }
+      }
+    },
+    "Uninstall": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaldır"
+          }
+        }
+      }
+    },
+    "Uninstaller": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaldırıcı"
+          }
+        }
+      }
+    },
+    "User": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kullanıcı"
+          }
+        }
+      }
+    },
+    "User .cache": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kullanıcı .cache"
+          }
+        }
+      }
+    },
+    "Wired": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sabit"
+          }
+        }
+      }
+    },
+    "Xcode Archives": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xcode Arşivleri"
+          }
+        }
+      }
+    },
+    "Xcode DerivedData": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xcode DerivedData"
+          }
+        }
+      }
+    },
+    "You can put them back until you empty the Trash.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çöp Sepeti'ni boşaltana kadar geri koyabilirsiniz."
+          }
+        }
+      }
+    },
+    "and %lld more categories": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ve %lld kategori daha"
+          }
+        }
+      }
+    },
+    "at login": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "girişte"
+          }
+        }
+      }
+    },
+    "blocked by safety rules": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "güvenlik kuralları engelledi"
+          }
+        }
+      }
+    },
+    "done": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tamamlandı"
+          }
+        }
+      }
+    },
+    "found so far": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "şu ana kadar bulundu"
+          }
+        }
+      }
+    },
+    "iOS Device Support": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS Aygıt Desteği"
+          }
+        }
+      }
+    },
+    "in progress": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sürüyor"
+          }
+        }
+      }
+    },
+    "in this folder": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bu klasörde"
+          }
+        }
+      }
+    },
+    "is safe to clean right now": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "şu anda güvenle temizlenebilir"
+          }
+        }
+      }
+    },
+    "macOS blocks %@ until TidyMac has Full Disk Access. Turn it on in System Settings, reopen TidyMac, then scan again.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS, TidyMac'e Tam Disk Erişimi verilene kadar şunları engeller: %@. Sistem Ayarları'nda açın, TidyMac'i yeniden açın ve tekrar tarayın."
+          }
+        }
+      }
+    },
+    "macOS manages memory itself, so there is no \"Free RAM\" button. It would only slow things down. Quit the heaviest apps if you need headroom.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS belleği kendisi yönetir, bu yüzden \"Belleği Boşalt\" düğmesi yoktur. Bu yalnızca sistemi yavaşlatırdı. Yer açmanız gerekirse en çok bellek kullanan uygulamalardan çıkın."
+          }
+        }
+      }
+    },
+    "no longer there": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "artık yerinde değil"
+          }
+        }
+      }
+    },
+    "none picked yet": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "henüz hiçbiri seçilmedi"
+          }
+        }
+      }
+    },
+    "npm Cache": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "npm Önbelleği"
+          }
+        }
+      }
+    },
+    "safe to clean": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "güvenle temizlenebilir"
+          }
+        }
+      }
+    },
+    "waiting": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bekliyor"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
